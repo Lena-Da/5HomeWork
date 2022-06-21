@@ -1,0 +1,15 @@
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.csproj.AssemblyReference.cache
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.AssemblyInfoInputs.cache
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.AssemblyInfo.cs
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.csproj.CoreCompileInputs.cache
+C:\Users\lenda\Desktop\5hw\N34\bin\Debug\net6.0\N34.exe
+C:\Users\lenda\Desktop\5hw\N34\bin\Debug\net6.0\N34.deps.json
+C:\Users\lenda\Desktop\5hw\N34\bin\Debug\net6.0\N34.runtimeconfig.json
+C:\Users\lenda\Desktop\5hw\N34\bin\Debug\net6.0\N34.dll
+C:\Users\lenda\Desktop\5hw\N34\bin\Debug\net6.0\N34.pdb
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.dll
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\refint\N34.dll
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.pdb
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\N34.genruntimeconfig.cache
+C:\Users\lenda\Desktop\5hw\N34\obj\Debug\net6.0\ref\N34.dll
